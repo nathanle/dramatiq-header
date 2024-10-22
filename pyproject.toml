@@ -10,7 +10,7 @@ documentation = "https://github.com/guedesfelipe/dramatiq-header"
 keywords = ["dramatiq", "header", "dramatiq header", "rabbitmq"]
 
 [tool.poetry.dependencies]
-python = "^3.10"
+python = "^3.9"
 dramatiq = "^1.15.0"
 
 [tool.poetry.group.test.dependencies]
